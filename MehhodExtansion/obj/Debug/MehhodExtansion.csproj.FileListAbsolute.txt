@@ -1,0 +1,7 @@
+C:\Users\qadam\source\repos\MehhodExtansionSolution\MehhodExtansion\bin\Debug\MehhodExtansion.exe.config
+C:\Users\qadam\source\repos\MehhodExtansionSolution\MehhodExtansion\bin\Debug\MehhodExtansion.exe
+C:\Users\qadam\source\repos\MehhodExtansionSolution\MehhodExtansion\bin\Debug\MehhodExtansion.pdb
+C:\Users\qadam\source\repos\MehhodExtansionSolution\MehhodExtansion\obj\Debug\MehhodExtansion.csproj.AssemblyReference.cache
+C:\Users\qadam\source\repos\MehhodExtansionSolution\MehhodExtansion\obj\Debug\MehhodExtansion.csproj.CoreCompileInputs.cache
+C:\Users\qadam\source\repos\MehhodExtansionSolution\MehhodExtansion\obj\Debug\MehhodExtansion.exe
+C:\Users\qadam\source\repos\MehhodExtansionSolution\MehhodExtansion\obj\Debug\MehhodExtansion.pdb
